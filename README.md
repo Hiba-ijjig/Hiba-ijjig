@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m a software engineering student in FST Mohammedia. 
+I love programming because it helps us to make difference with our simple ideas.
 
+- 🌱 I’m currently learning Java, cpp, c#, uml, android java development.
+- - 📫 How to reach me: https://www.linkedin.com/in/hiba-ijjig-b6a5331b8/
 <table width="800px">
 <tr>
 
